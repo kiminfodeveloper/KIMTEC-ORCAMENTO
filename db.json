@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "name": "Kim Info Tec",
+      "budget": "15000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "kim": 8000,
+      "services": [
+        {
+          "name": "Freelancer",
+          "kim": "1500",
+          "description": "irá montar as estruturas da empresa (rede)",
+          "id": "a547c3a3-41c6-450c-813c-e04fd182d1e0"
+        },
+        {
+          "name": "Freelancer",
+          "kim": "2000",
+          "description": "irá fazer a estrutura de design da empresa.",
+          "id": "a36df4de-656d-4999-b5b8-750207f2fb7f"
+        },
+        {
+          "name": "Freelancer",
+          "kim": "1500",
+          "description": "irá fazer a parte elétrica do estabelecimento.",
+          "id": "347edf3d-6ac0-4cae-aa1a-56bdb225fcbd"
+        },
+        {
+          "name": "Freelancer",
+          "kim": "3000",
+          "description": "irá montar toda a parte estrutural, mesa, parede, etc....",
+          "id": "8ca8e411-170d-422e-bbde-1bd4fc72260d"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
